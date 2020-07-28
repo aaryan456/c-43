@@ -1,1 +1,1 @@
-I have done some changes in the scoring pater where lives are reduced if ball missed
+I have done some changes in the scoring patern where lives are reduced if ball missed
